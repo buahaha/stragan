@@ -1,0 +1,27 @@
+{
+  "name": "stragan",
+  "version": "1.0.0",
+  "description": "App that help in selling handmade goods and ecological food",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buahaha/stragan.git"
+  },
+  "keywords": [
+    "handmade",
+    "eco",
+    "ecological",
+    "food",
+    "cepelia",
+    "healthy"
+  ],
+  "author": "Szymon Błaszczyński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buahaha/stragan/issues"
+  },
+  "homepage": "https://github.com/buahaha/stragan#readme"
+}
